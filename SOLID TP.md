@@ -61,7 +61,7 @@ This is not following SRP,to achieve that principle to be fulfilled we should di
     }  
 The goal is achieved by dividing code into classes by their functionality
 
-##Open-Closed Principle
+## Open-Closed Principle
 Software entities (e.g., classes, modules, functions)should be **open for an extension, but closed for modification**.The extension allows us to implement new functionality to the module.<br/>
 Consider the below method of the class **VehicleCalculations** :<br/>
 ````
